@@ -1,5 +1,49 @@
 'use strict'
 
+// alert('Введите диапазон');
+
+// const numMin = 3;//+prompt('Введите ОТ')
+// const numMax = 20;//+prompt('Введите ДО')
+
+// let sum = numMax - numMin;
+// console.log(sum);
+
+// let quantityVezes = Math.floor(sum * 0.3);
+// console.log(`количество попыток: ${quantityVezes}`);
+
+// const rand = Math.round(Math.random() * (numMax - numMin) + numMin);
+// console.log(`random: ${rand}`);
+
+// let arrNumbers = [];
+// const replayNum = arrNumbers.find((elem, index, arr) => {
+
+// })
+// console.log(replayNum);
+
+// for (let i = 0; i < quantityVezes; i++) {
+  
+  
+//   rand;
+//   console.log(rand);
+//   let newNum = +prompt('Угадайте число');
+  
+//   console.log(newNum);
+//     if (replayNum === true) {
+//       console.log('Это число вы вводили, введите другое');
+//       console.log(replayNum);
+//     } else if (newNum > rand) {
+//       console.log('Больше');
+//     } else if (newNum < rand) {
+//       console.log('Меньше');
+//     } else if (newNum === rand) {
+//       console.log('Верно!');
+//     } else {
+//       console.log('mierda');
+//     }
+//     arrNumbers.push(newNum);  
+
+// }
+
 /*
 Если я передаю функцию как аргумент, в другую функцию, она не работает. Где может быть ошибка?
 Или когда я передаю функцию в функцию в нужно этой функции тоже передать аргумент?
@@ -168,6 +212,8 @@
 // }
 // console.log(newStudents(allStudents));
 // как сделать, чтоб каждый второй элемент из списка был записан?
+// Забыл что хотел..
+
 
 // ------------------------------------------------
 
@@ -198,6 +244,8 @@
 //--------------------------------------------------
 
 /*
+Выше цикл тоже не понял..
+
 Не полностью уловил как работают циклы. Думал, что елементы второго цикла, 
 повторяются, в каждом элементе первого, все элементы второго
 но в консоли, не могу порой понять как они идут. 
